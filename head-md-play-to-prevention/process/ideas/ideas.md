@@ -1,5 +1,7 @@
 # The 5D Detective Agency
 
+### Become a digital detective, solve cyberbullying mysteries, and master the 5Ds to protect others and make the online world safer.
+
 Aim and concept: The player becomes a detective investigating cyberbullying mysteries in a virtual school or city. Through exploration, collecting clues, talking to characters, and solving puzzles, the player discovers what happened and learns how to intervene using the 5Ds: Direct, Distract, Delegate, Delay, and Document. The goal is not just to solve the mystery, but to protect victims, stop harmful behavior, and become a better active bystander.
 
 ## The 5Ds as Detective Powers
