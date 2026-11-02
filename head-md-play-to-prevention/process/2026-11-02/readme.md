@@ -30,3 +30,16 @@ At what point does a joke become the norm? If nobody steps in, who is next? To d
 [ONLINE HARASSMENT FIELD MANUAL](https://onlineharassmentfieldmanual.pen.org/)
 
 [BYSTANDER TO UPSTANDER](https://fairspace.co/wp-content/uploads/2025/09/Bystander-to-Upstander-Online-Harassment-Toolkit-1.pdf)
+
+## Game Reference
+
+[Bury Me, My Love](https://enterremoimonamour.arte.tv/)    
+ 
+[Consume Me](https://hexecutable.itch.io/consume-me)
+
+
+
+
+
+
+
